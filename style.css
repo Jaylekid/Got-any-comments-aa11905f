@@ -1,0 +1,21 @@
+input {
+	width: 300px;
+	border-radius: 5px;
+	margin-bottom: 15px;
+}
+.football {
+	width: 15px;
+	margin-bottom: 5px;
+}
+.day {
+	width: 15px;
+	margin-bottom: 5px;
+}
+textarea {
+	border-width: 5px;
+	border-color: red;
+}
+textarea:focus {
+	border-color: green;
+	outline: none;
+}
